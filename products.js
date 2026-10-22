@@ -17,7 +17,7 @@ window.CATALOGUE_CONFIG = {
   additionalPhones: [
     { label: "Office", display: "+91 96996 37355", digits: "919699637355" },
     { label: "Office2", display: "+91 96996 27366", digits: "919699627366" },
-    { label: "Manish", display: "+91 84128 21206", digits: "918412821206" },
+    { label: "Manish More", display: "+91 84128 21206", digits: "918412821206" },
   ],
   whatsappMessage:
     "Hello, I viewed your Samarth Agency product catalogue and would like to enquire about a product.",
