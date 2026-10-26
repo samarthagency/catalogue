@@ -191,5 +191,11 @@ window.PRODUCTS = [
     category: "Continous Glucose Monitoring",
     description: "",
     pdf: "CGM 16D Brochure-5 8 pg curve 2.pdf",
+  },{
+    name: "KIN_Blood Gas Brochure",
+    brand: "",
+    category: "Blood Gas & Electrolyte Analyzer",
+    description: "",
+    pdf: "CGM 16D Brochure-5 8 pg curve 2.pdf",
   },
 ];
